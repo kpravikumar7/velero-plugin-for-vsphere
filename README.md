@@ -5,6 +5,11 @@
 ## Overview
 This repository contains the Velero Plugin for vSphere.  This plugin is a volume snapshotter plugin that provides crash-consistent snapshots of vSphere block volumes and backup of volume data into S3 compatible storage.
 
+
+Changes by Ravi
+==================
+
+
 ## Compatibility
 * Velero - Version 1.3.2 or above
 * vSphere - Version 6.7U3 or above
