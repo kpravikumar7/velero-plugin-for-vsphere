@@ -1,6 +1,7 @@
 # Known Issues
 
 ## v1.0.0
+12
 1. Restore fails if the K8s node VMs are placed in any sub-folders of vSphere VM inventory.
     1. Workaround: move node VMs to the top level of VM inventory. (for users of release v1.0.0)
     2. Solution: the issue was resolved in the master branch at commit 1c3dd7e20c3198e4a94a5a17874d4c474b48c2e2.
